@@ -8,6 +8,10 @@ Created on Jun 18, 2013
 @see: OperationFactory.py
 @author: williamdemeo at gmail
 '''
+'''To execute these in the interpreter, first evaluate this line:
+import sys
+sys.path.append('/home/williamdemeo/git/UACalc_Jython/UACalc_Jython/src/jalg')
+'''
 
 from OperationFactory import Operation
 from org.uacalc.alg import BasicAlgebra
